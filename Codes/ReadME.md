@@ -4,5 +4,5 @@ When 10 million bits are sent results are as follows:
 ![](Images/p1.jpg)
 For P(1) = P(0) = 0.5
 
-![](Images/p1.jpg)
+![](Images/p2.jpg)
 For P(1) = 1/5, P(0) = 4/5
